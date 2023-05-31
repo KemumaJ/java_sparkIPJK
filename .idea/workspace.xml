@@ -9,25 +9,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7ef8ae74-f75b-49c9-8056-3d78012e449e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/kerosi/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/kerosi/models/UserInput.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/kerosi/services/CaesarCipher.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/kerosi/services/GetUserInput.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/kerosi/util/Validator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/kerosi/services/CaesarCipherTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/kerosi/services/GetUserInputTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/kerosi/util/ValidatorTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -207,16 +189,16 @@
     </task>
     <servers />
   </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/kerosi/Main.java</url>
-          <line>9</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/caesercipher_java$Main.ic" NAME="Main Coverage Results" MODIFIED="1684555935785" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
