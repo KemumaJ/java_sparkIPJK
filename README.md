@@ -7,4 +7,5 @@ Project setup instructions:
     -Get user Input
     - Perform user input validation
     - Process user request
-Link to live site on GitHub Pages: 
+Link to live site on GitHub Pages: https://github.com/KemumaJ/java_sparkIPJK.git
+
