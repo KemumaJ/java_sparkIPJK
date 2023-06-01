@@ -9,7 +9,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7ef8ae74-f75b-49c9-8056-3d78012e449e" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/kerosi/util/ValidatorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/kerosi/util/ValidatorTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

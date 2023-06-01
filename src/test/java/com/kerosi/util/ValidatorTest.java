@@ -28,7 +28,7 @@ class ValidatorTest {
     void testInvalidOperation_validatorReturnFalse() {
         Validator validator = new Validator();
         UserInput userInput = new UserInput();
-        userInput.setOperation("jekhsadaie");
+        userInput.setOperation("jekhsgfradyme");
         userInput.setMessage("message");
         userInput.setKey(1);
         assertFalse(validator.isValid(userInput));
